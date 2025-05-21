@@ -1,2 +1,2 @@
-# micv.py
+# micv
 Mi_CV
